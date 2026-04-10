@@ -1,0 +1,9 @@
+fruit=["apple","bnana","mango","kiwi","cherrry"]
+print(fruit[0])
+fruit.insert(0,"Grape")
+print(fruit[0])
+fruit.reverse()
+print(fruit)
+fruit.append("guava")
+print(fruit)
+fruit
